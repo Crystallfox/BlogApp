@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/drawable/flecha_back.xml" value="0.1035" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/drawable/fondo_gradiente_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1035" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/drawable/newentryicon.xml" value="0.1" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/fragment_blog_content.xml" value="0.1" />
+        <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/fragment_content.xml" value="0.1" />
         <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/fragment_create_entry.xml" value="0.1598731884057971" />
         <entry key="..\:/Users/Sistemas 1/AndroidStudioProjects/PruebaTcnica/app/src/main/res/layout/fragment_entrys.xml" value="0.1598731884057971" />
       </map>

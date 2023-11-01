@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navegacion_blog"
+    app:startDestination="@id/fragmentLista">
+
+    <fragment
+        android:id="@+id/fragmentLista"
+        android:name="com.angelcoba.pruebatcnica.Views.Fragments.EntrysFragment"
+        android:label="fragment_lista">
+        <action
+            android:id="@+id/actionEntry"
+            app:destination="@id/fragmentEntrada"
+            app:enterAnim="@anim/slide_in_rigth"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_rigth" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragmentEntrada"
+        android:name="com.angelcoba.pruebatcnica.Views.Fragments.FragmentContent"
+        android:label="fragment_entrada"/>
+</navigation>
